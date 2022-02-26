@@ -40,7 +40,7 @@ Go to [the team 178 website](https://youtube.com/shorts/fH1TdV4sDdc?feature=shar
 
 # Contribute to TEAM 178
 
-If you wish to actually inspect TEAM 175, submit PRs or otherwise work
+If you wish to actually inspect TEAM 178, submit PRs or otherwise work
  with Forge itself, you're in the right place!
  
 
