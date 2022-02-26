@@ -1,23 +1,40 @@
 # TEAM 178
 
-Go to [the team 178 website](https://youtu.be/yP9KiFTyBks)
+
+# WELCOME TO OUR WEBSITE 
+
+=============
+# C2-TEAM-178
+
+|    TEAM       |    MEMBERS |
+| ------------- | -----------|
+|   ARJUN M         |20BEI005|
+|   DEEPIKA L       |20BIT007|
+|   YOGA ARAVIND K  |20BAE210|
+|   KANISHK B K     |20BAU207|
+|   NAVEEN I        |20BEC217|
+|   THARAN KUMAR M  |20BME257|
 
 
-
-
-
-# DIE HARD FAN
-![th](https://user-images.githubusercontent.com/100404698/155828898-7a822ed8-b637-4d50-802b-8439d8eb5ab0.jpg)
-
-
-
-# LOVE U
-
-![th](https://user-images.githubusercontent.com/100404698/155828914-94705086-b980-4a91-9b8b-21323d6fe3b4.jpg)
 
 
 
 # TEAM 178
+
+Go to [the team 178 website](https://youtube.com/shorts/fH1TdV4sDdc?feature=share)
+
+
+
+
+
+# STAY RELAX
+![th](https://user-images.githubusercontent.com/100404698/155829982-96d73a8f-d04c-4c76-b660-ee9cb34091db.jpg)
+
+
+# CLAM EVER
+
+
+![th](https://user-images.githubusercontent.com/100404698/155829998-3a675c65-74f0-4a61-8cb9-04523fa5f753.jpg)
 
 
 
@@ -33,3 +50,4 @@ If you wish to actually inspect TEAM 175, submit PRs or otherwise work
 We require all contributors to acknowledge . Please ensure you have a valid email address
  associated with your GitHub account to do this. If you have previously
  signed it, you should be OK.
+
