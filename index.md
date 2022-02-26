@@ -6,14 +6,14 @@
 =============
 # C2-TEAM-178
 
-|    TEAM       |    MEMBERS |
-| ------------- | -----------|
-|   ARJUN M         |20BEI005|
-|   DEEPIKA L       |20BIT007|
-|   YOGA ARAVIND K  |20BAE210|
-|   KANISHK B K     |20BAU207|
-|   NAVEEN I        |20BEC217|
-|   THARAN KUMAR M  |20BME257|
+|    TEAM              | MEMBERS|
+| -------------        | -------|
+|   VIDHUN C R         |20BME260|
+|   LOGENDAR V S       |20BIT031|
+|   BENCY RAICHEL J A  |20BEI009|
+|   KISHORE M          |20BAU210|
+|   DILIP KUMAR B      |20BIT011|
+|   NITTHIC NEVASH S   |20BEC220|
 
 
 
